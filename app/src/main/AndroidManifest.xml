@@ -13,4 +13,5 @@
         android:theme="@style/Theme.Test2Application"
         tools:targetApi="31" />
 <!--suzuki-->
+<!--morita-->
 </manifest>
