@@ -17,7 +17,7 @@
             android:exported="false"
             android:label="@string/title_activity_main"
             android:theme="@style/Theme.Test2Application.NoActionBar">
-            <meta-data
+            <meta-datas
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
@@ -28,6 +28,7 @@
 栗林
 福君
 愛菜
+山口
 ゴミ屋敷
 村上
 小島
